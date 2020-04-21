@@ -1,5 +1,6 @@
-baseURL = "https://satish28.github.io/Blog/"
+baseURL = "/Blog/"
 languageCode = "en-us"
 title = "Satish S"
 theme = "Erblog"
 publishDir = "docs"
+staticDir = ["/Users/securityinnovation/dev/blog/themes/erblog/static"]
