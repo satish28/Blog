@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://satish28.github.io/Blog/categories/</loc>
+    <loc>https://satish28.github.io/Blog/posts/my-first-post/</loc>
+    <lastmod>2020-04-21T13:25:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://satish28.github.io/Blog/posts/</loc>
+    <lastmod>2020-04-21T13:25:02+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://satish28.github.io/Blog/</loc>
+    <lastmod>2020-04-21T13:25:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://satish28.github.io/Blog/categories/</loc>
   </url>
   
   <url>

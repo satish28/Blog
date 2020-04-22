@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Satish S</title>
-    <link>https://satish28.github.io/Blog/</link>
-    <description>Recent content on Satish S</description>
+    <title>Posts on Satish S</title>
+    <link>https://satish28.github.io/Blog/posts/</link>
+    <description>Recent content in Posts on Satish S</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Apr 2020 13:25:02 +0530</lastBuildDate>
     
-	<atom:link href="https://satish28.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://satish28.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
