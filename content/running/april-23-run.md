@@ -13,7 +13,7 @@ A slow recovery run. Aim was to keep the heart rate under < 140bpm.
 
 #### Perceived Effort
 
-Even though the pace was slower than usual by 30secs per km, it felt a bit harder effort. A lot of rolling hills. Not used to run in the continuos inclined decline cycle. Legs feel fine, the continous incline and decline stresses the mind. 
+Even though the pace was slower than usual by 30secs per km, it felt a bit harder effort. A lot of rolling hills, have to get used to it. Legs feel fine, the continous incline and decline stresses the mind. 
 
 ##### Things to Work
 
