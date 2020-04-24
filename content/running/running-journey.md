@@ -27,6 +27,8 @@ Starting a journey to get fit, and faster. As part of the journey i will be usin
 * Current Maf Pace - 6:40/KM
 * Longest Distance So Far - 30Km @6'55"/Km. 
 * Fastest Half Marathon - 2:05:48 @5'58/Km.
+* Weekly Mileage - 75-100Kms
+* Monthly Mileage - 350-430Kms
 
 ### Target:
 * Maf Pace - 5:00/Km.

@@ -15,7 +15,7 @@ tags: [
 
 Relaxed effort for first 9kms. Once the T-Shirt gets soaked in sweat it interferes with the HR monitor and that distracts the concentration from the run. 
 
-##### Things to Work
+##### Things to improve
 
 * It's all in the mind. Be OK with being uncomfortable.
 * Recovery -- Need to work on streching.
@@ -28,3 +28,6 @@ Relaxed effort for first 9kms. Once the T-Shirt gets soaked in sweat it interfer
 * Pace: 6:49/km
 * Avg HR: 144bpm (MAF Range 139-149) {HR should be 2-3 beats lower. Sweat interfered a lot with HR post 9kms}
 * Strava Link: [April - 24](https://www.strava.com/activities/3343893236)
+* Splits
+
+{{< resize-image src="April-24-splits.png" alt="April 24 splits" >}}

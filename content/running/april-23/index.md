@@ -27,3 +27,6 @@ Even though the pace was slower than usual by 30secs per km, it felt a bit harde
 * Pace: 7:02/km
 * Avg HR: 140bpm (MAF Range 139-149)
 * Strava Link: [April - 23](https://www.strava.com/activities/3338845471)
+* Splits
+
+{{< resize-image src="April-23-splits.png" alt="April 23 splits" >}}
