@@ -2,6 +2,7 @@
 title: "Reverseengg"
 date: 2020-04-28T14:22:33+05:30
 description: Why this Blog
+tags: ["reverseengg"]
 ---
 
 ## Reverse Engineering - Why this Blog
@@ -20,7 +21,14 @@ Current plan is to first address the following questions.
 
 * What are registers and their uses.
 * Basic assembly (x86-64) syntax.
+* Memory and its segments
 * What is a Stack 
 * What is a Heap
+* ASLR
+* SEH protection
+* DEP
 * Get comfortable with GDB or Radare or Ghidra. I have never used any of the debugging tools in details so i am not sure what to use either.
 * Start will small C Programs and use a debugger to understand how the code gets converted into assembly language.
+* Stack-Based buffer overflow
+* Heap-Based buffer overflow
+* Return-Oriented-Programming (ROP)
