@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no"/>
 
-    <title> | Satish S</title>
+    <title>Stack | Satish S</title>
     
     <link rel="apple-touch-icon" sizes="180x180" href="/Blog/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/Blog/favicon-32x32.png">
@@ -41,15 +41,15 @@
 
   <div class="nav-menu">
   
-    <a class="color-link nav-link" href="/Blog/reverseengg/">Reverse Engineering</a>
-  
     <a class="color-link nav-link" href="/Blog/running/">Running</a>
+  
+    <a class="color-link nav-link" href="/Blog/reverseengg/">Reverse Engineering</a>
   
     <a class="color-link nav-link" href="/Blog/tags/">Tags</a>
   
     <a class="color-link nav-link" href="/Blog/about/">About</a>
   
-  <a class="color-link nav-link" href="" target="_blank" rel="noopener" type="application/rss+xml">RSS</a>
+  <a class="color-link nav-link" href="https://satish28.github.io/Blog/index.xml" target="_blank" rel="noopener" type="application/rss+xml">RSS</a>
 </div>
 <footer class="footer">
 	<div class="social-icons">
@@ -140,11 +140,50 @@
         <div id="content" class="content-container">
         
 
-<h1 class="post-title"></h1>
+<h1 class="post-title">Stack</h1>
+    
+    <time>April 28, 2020</time>
     
     <div>
         <p>
-        
+        <h2 id="stack">Stack</h2>
+<p>Stack is the memory region with the following features:</p>
+<ul>
+<li>
+<p>Last-in-first-out (LIFO) - Data added last is removed first.</p>
+</li>
+<li>
+<p>Static memory allocation - Stack is used only when the size of the data is known.</p>
+</li>
+<li>
+<p>Size of the stack is limited - Stack size is limited and it differs from PC to PC. In a nix based system use the below command to identify the stack size.
+<code>ulimit -a </code></p>
+<pre><code class="language--t:" data-lang="-t:">    -f: file size (blocks)              unlimited
+    -d: data seg size (kbytes)          unlimited
+    -s: stack size (kbytes)             8192
+    -c: core file size (blocks)         0
+    -v: address space (kbytes)          unlimited
+    -l: locked-in-memory size (kbytes)  unlimited
+    -u: processes                       1418
+    -n: file descriptors                256
+</code></pre><pre><code></code></pre></li>
+<li>
+<p>Temporary Memory - Stack memory is cleared on its own when the function exists.</p>
+</li>
+</ul>
+<h3 id="advantages">Advantages</h3>
+<ul>
+<li>Simple and Fast.</li>
+<li>Memory on stack is automatically reclaimed when the function exits.</li>
+</ul>
+<h3 id="limitation">Limitation</h3>
+<ul>
+<li>Temporary storage - Stack memory clears out when the function exits.</li>
+<li>Size of the data has to be known.</li>
+<li>Allocating more memory than available on the stack can cause crash due to stack overflow.</li>
+<li>Stack is limited in size.</li>
+</ul>
+
         </p>
     </div>
     
@@ -153,6 +192,11 @@
 
     <div class="page-footer">
         
+        <hr class="footer-divider">
+        
+            <a class="tag" href="/tags/reverseengg">#reverseengg</a>
+        
+      
     </div>
 
 

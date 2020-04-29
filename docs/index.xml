@@ -6,18 +6,99 @@
     <description>Recent content on Satish S</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2020 13:25:02 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 15:50:11 +0530</lastBuildDate>
     
 	<atom:link href="https://satish28.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>https://satish28.github.io/Blog/posts/my-first-post/</link>
-      <pubDate>Tue, 21 Apr 2020 13:25:02 +0530</pubDate>
+      <title>About</title>
+      <link>https://satish28.github.io/Blog/about/</link>
+      <pubDate>Tue, 28 Apr 2020 15:50:11 +0530</pubDate>
       
-      <guid>https://satish28.github.io/Blog/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://satish28.github.io/Blog/about/</guid>
+      <description>About </description>
+    </item>
+    
+    <item>
+      <title>Reverseengg</title>
+      <link>https://satish28.github.io/Blog/reverseengg/introduction/</link>
+      <pubDate>Tue, 28 Apr 2020 14:22:33 +0530</pubDate>
+      
+      <guid>https://satish28.github.io/Blog/reverseengg/introduction/</guid>
+      <description>Reverse Engineering - Why this Blog Alright there are a lot of blogs, tutorials, guides which are there to help people learn reverse engineering.</description>
+    </item>
+    
+    <item>
+      <title>Stack</title>
+      <link>https://satish28.github.io/Blog/reverseengg/stack/</link>
+      <pubDate>Tue, 28 Apr 2020 14:22:33 +0530</pubDate>
+      
+      <guid>https://satish28.github.io/Blog/reverseengg/stack/</guid>
+      <description>Stack Stack is the memory region with the following features:</description>
+    </item>
+    
+    <item>
+      <title>April 28 Run</title>
+      <link>https://satish28.github.io/Blog/running/april-28/</link>
+      <pubDate>Tue, 28 Apr 2020 01:17:11 +0530</pubDate>
+      
+      <guid>https://satish28.github.io/Blog/running/april-28/</guid>
+      <description>Day - 6 1st Km warm up. Next 12 km run in the MAF Heart Range 139bpm - 149bpm.</description>
+    </item>
+    
+    <item>
+      <title>April 27 Run</title>
+      <link>https://satish28.github.io/Blog/running/april-27-run/</link>
+      <pubDate>Mon, 27 Apr 2020 10:33:44 +0530</pubDate>
+      
+      <guid>https://satish28.github.io/Blog/running/april-27-run/</guid>
+      <description>Day - 5: Rest Day No run today. Legs have recovered 90%.</description>
+    </item>
+    
+    <item>
+      <title>April 26 Run</title>
+      <link>https://satish28.github.io/Blog/running/april-26-run/</link>
+      <pubDate>Sun, 26 Apr 2020 07:55:08 +0530</pubDate>
+      
+      <guid>https://satish28.github.io/Blog/running/april-26-run/</guid>
+      <description>Day - 4: Rest Day No run today. Legs are a bit tired.</description>
+    </item>
+    
+    <item>
+      <title>April 25 Run</title>
+      <link>https://satish28.github.io/Blog/running/april-25/</link>
+      <pubDate>Sat, 25 Apr 2020 19:17:11 +0530</pubDate>
+      
+      <guid>https://satish28.github.io/Blog/running/april-25/</guid>
+      <description>Day - 3 1st Km warm up. Next 12 km run in the MAF Heart Range 139bpm - 149bpm.</description>
+    </item>
+    
+    <item>
+      <title>April 24 Run</title>
+      <link>https://satish28.github.io/Blog/running/april-24/</link>
+      <pubDate>Fri, 24 Apr 2020 10:36:07 +0530</pubDate>
+      
+      <guid>https://satish28.github.io/Blog/running/april-24/</guid>
+      <description>Day - 2 1st Km warm up. Next 12 km run in the MAF Heart Range 139bpm - 149bpm.</description>
+    </item>
+    
+    <item>
+      <title>April 23 Run</title>
+      <link>https://satish28.github.io/Blog/running/april-23/</link>
+      <pubDate>Thu, 23 Apr 2020 08:39:07 +0530</pubDate>
+      
+      <guid>https://satish28.github.io/Blog/running/april-23/</guid>
+      <description>Day - 1 A slow recovery run. Aim was to keep the heart rate under &amp;lt; 140bpm.</description>
+    </item>
+    
+    <item>
+      <title>Running Journey</title>
+      <link>https://satish28.github.io/Blog/running/running-journey/</link>
+      <pubDate>Thu, 23 Apr 2020 08:25:02 +0530</pubDate>
+      
+      <guid>https://satish28.github.io/Blog/running/running-journey/</guid>
+      <description>Starting a journey to get fit, and faster. As part of the journey i will be using the blog to record my every runs, how my body and mind felt.</description>
     </item>
     
   </channel>

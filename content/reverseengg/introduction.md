@@ -2,7 +2,8 @@
 title: "Reverseengg"
 date: 2020-04-28T14:22:33+05:30
 description: Why this Blog
-tags: ["reverseengg"]
+tags: ["reverseengg",]
+type: "post"
 ---
 
 ## Reverse Engineering - Why this Blog

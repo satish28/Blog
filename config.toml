@@ -9,7 +9,6 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 enableEmoji = true
-disableKinds = ["RSS"]
 
 [taxonomies]
   tag = "tags"
@@ -34,14 +33,14 @@ disableKinds = ["RSS"]
 	name = "Reverse Engineering"
 	identifier = "Reverse Engineering"
 	url = "reverseengg/"
-	weight = 1
+	weight = 2
 
 
 [[menu.main]]
 	name = "Running"
 	identifier = "Running"
 	url = "running/"
-	weight = 2
+	weight = 1
 
 
 [[menu.main]]
