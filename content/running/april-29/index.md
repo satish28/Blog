@@ -1,6 +1,6 @@
 ---
 title: "April 29 Run"
-date: 2020-04-27T08:10:07+05:30
+date: 2020-04-29T08:10:07+05:30
 description: "Day 7 - April 29"
 tags: [
     "running",
