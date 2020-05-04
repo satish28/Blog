@@ -2,7 +2,7 @@
 title: "Stack"
 date: 2020-04-28T14:22:33+05:30
 description: What is a stack.
-tags: ["reverseengg"]
+tags: ["reverseengg",]
 ---
 
 ## Stack 

@@ -29,18 +29,18 @@ enableEmoji = true
 
 # Menu links along the sidebar navigation.
 
-[[menu.main]]
-	name = "Reverse Engineering"
-	identifier = "Reverse Engineering"
-	url = "reverseengg/"
-	weight = 2
-
 
 [[menu.main]]
 	name = "Running"
 	identifier = "Running"
 	url = "running/"
 	weight = 1
+
+[[menu.main]]
+	name = "reverseengg"
+	identifier = "reverseengg"
+	url = "reverseengg/"
+	weight = 2
 
 
 [[menu.main]]
@@ -54,3 +54,9 @@ enableEmoji = true
 	name = "About"
 	url = "about/"
 	weight = 4
+
+[[menu.main]]
+	identifier = "archives"
+	name = "archives"
+	url = "archives/"
+	weight = 5
